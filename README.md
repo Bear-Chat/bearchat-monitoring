@@ -1,7 +1,9 @@
 # Monitoring with Grafana, Prometheus and Node Exporter
 
 <div align="right">
+
   🇧🇷 [Versão em Português](#monitoramento-com-grafana-prometheus-e-node-exporter)
+
 </div>
 
 This project provides a complete monitoring environment using Docker Compose with:
@@ -138,14 +140,15 @@ docker volume prune -f
 
 ---
 
+
+# Monitoramento com Grafana, Prometheus e Node Exporter
+
 <div align="right">
+
   🇺🇸 [English version](#monitoring-with-grafana-prometheus-and-node-exporter)
 </div>
 
 ---
-
-# Monitoramento com Grafana, Prometheus e Node Exporter
-
 Este projeto fornece um ambiente completo de monitoramento usando Docker Compose com:
 
 - [Grafana](https://grafana.com/)

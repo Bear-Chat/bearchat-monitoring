@@ -39,7 +39,7 @@ docker-compose up -d
   - Username: `admin`
   - Password: `admin` (you will be asked to change it on first login)
 
-- **Prometheus**: [http://localhost:9090](http://localhost:9090)
+- **Prometheus**: [http://localhost:9095](http://localhost:9095)
 
 - **Node Exporter**: [http://localhost:9100](http://localhost:9100)
 
@@ -182,7 +182,7 @@ docker-compose up -d
   - Login: `admin`
   - Senha: `admin` (você será solicitado a alterar na primeira vez)
 
-- **Prometheus**: [http://localhost:9090](http://localhost:9090)
+- **Prometheus**: [http://localhost:9095](http://localhost:9095)
 
 - **Node Exporter**: [http://localhost:9100](http://localhost:9100)
 

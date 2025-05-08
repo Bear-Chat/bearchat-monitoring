@@ -35,11 +35,11 @@ docker-compose up -d
 
 ## 🔎 Access
 
-- **Grafana**: [http://localhost:3000](http://localhost:3000)
+- **Grafana**: [http://localhost:9091](http://localhost:9091)
   - Username: `admin`
   - Password: `admin` (you will be asked to change it on first login)
 
-- **Prometheus**: [http://localhost:9095](http://localhost:9095)
+- **Prometheus**: [http://localhost:9090](http://localhost:9090)
 
 - **Node Exporter**: [http://localhost:9100](http://localhost:9100)
 
@@ -64,7 +64,7 @@ docker-compose up -d
 
 ## ✅ First Access to Grafana
 
-1. Access [Grafana](http://localhost:3000)
+1. Access [Grafana](http://localhost:9091)
 2. Login using `admin / admin`
 3. Check that:
    - A **Data Source** named `DS_PROMETHEUS` was created
@@ -178,11 +178,11 @@ docker-compose up -d
 
 ## 🔎 Acessos
 
-- **Grafana**: [http://localhost:3000](http://localhost:3000)
+- **Grafana**: [http://localhost:9091](http://localhost:9091)
   - Login: `admin`
   - Senha: `admin` (você será solicitado a alterar na primeira vez)
 
-- **Prometheus**: [http://localhost:9095](http://localhost:9095)
+- **Prometheus**: [http://localhost:9090](http://localhost:9090)
 
 - **Node Exporter**: [http://localhost:9100](http://localhost:9100)
 
@@ -207,7 +207,7 @@ docker-compose up -d
 
 ## ✅ Primeiro acesso ao Grafana
 
-1. Acesse o [Grafana](http://localhost:3000)
+1. Acesse o [Grafana](http://localhost:9091)
 2. Faça login com `admin / admin`
 3. Verifique se:
    - O **Data Source** chamado `DS_PROMETHEUS` foi criado

@@ -21,7 +21,7 @@ services:
     image: grafana/grafana:latest
     container_name: grafana
     ports:
-      - "9091:9091"
+      - "9091:3000"
     volumes:
       - grafana_data:/var/lib/grafana
       - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources
